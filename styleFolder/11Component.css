@@ -1,0 +1,241 @@
+#comp11 {
+    max-width: 1920px;
+    width: 100%;
+    height: 1264px;
+    position: relative;
+    bottom: 300px;
+}
+
+.img11 {
+    background-image: url(../imagesFolder/keyboard\ &\ mouse\ 3.png);
+    width: 544px;
+    height: 542px;
+    background-repeat: no-repeat;
+    margin-left: 376px;
+    margin-top: 98px;
+}
+
+.p63 {
+    text-align: center;
+    font-size: 36px;
+    color: #2C3E50;
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+    margin-left: 418px;
+    position: relative;
+    bottom: 526px;
+}
+
+.img12,
+.img13,
+.img14,
+.img15 {
+    background-image: url(../imagesFolder/Icon.png);
+    width: 35px;
+    height: 40px;
+    margin-left: 975px;
+    position: relative;
+    bottom: 520px;
+}
+
+.p64,
+.p66 {
+    text-align: center;
+    font-size: 18px;
+    color: #2C3E50;
+    font-family: 'Lato', sans-serif;
+    font-weight: 700;
+    margin-left: 250px;
+    position: relative;
+    bottom: 570px;
+}
+
+.p65,
+.p67,
+.p69,
+.p71 {
+    width: 260px;
+    text-align: start;
+    font-size: 14px;
+    color: #A1B1BC;
+    line-height: 24px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    margin-left: 975px;
+    position: relative;
+    bottom: 570px;
+}
+
+.view-detail {
+    font-size: 15px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 700;
+    margin-left: 975px;
+    position: relative;
+    bottom: 578px;
+    color: #1ABC9C;
+}
+
+.container7 {
+    position: relative;
+    bottom: 25px;
+}
+
+
+.p68 {
+    text-align: center;
+    font-size: 18px;
+    color: #2C3E50;
+    font-family: 'Lato', sans-serif;
+    font-weight: 700;
+    margin-left: 610px;
+    position: relative;
+    bottom: 570px;
+}
+
+.container8 {
+    margin-left: 300px;
+    position: relative;
+    bottom: 435px;
+}
+
+.p70 {
+    text-align: center;
+    font-size: 18px;
+    color: #2C3E50;
+    font-family: 'Lato', sans-serif;
+    font-weight: 700;
+    margin-left: 558px;
+    position: relative;
+    bottom: 570px;
+}
+
+.container9 {
+    margin-left: 300px;
+    position: relative;
+    bottom: 462px;
+}
+
+.amazing-theme-options {
+    font-size: 36px;
+    color: #2C3E50;
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+    margin-left: 374px;
+    position: relative;
+    bottom: 926px;
+}
+
+
+.container9 {
+    margin-left: 300px;
+    position: relative;
+    bottom: 462px;
+}
+
+.p72 {
+    text-align: center;
+    font-size: 18px;
+    color: #2C3E50;
+    font-family: 'Lato', sans-serif;
+    font-weight: 700;
+    margin-right: 949px;
+    position: relative;
+    bottom: 970px;
+}
+
+.p73,
+.p75,
+.p77,
+.p79 {
+    width: 260px;
+    text-align: start;
+    font-size: 14px;
+    color: #A1B1BC;
+    line-height: 24px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    margin-left: 375px;
+    position: relative;
+    bottom: 970px;
+}
+
+.view-detail2 {
+    text-align: start;
+    font-size: 15px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 700;
+    margin-left: 975px;
+    position: relative;
+    bottom: 978px;
+    margin-left: 375px;
+    color: #1ABC9C;
+}
+
+.img16 {
+    background-image: url(../imagesFolder/Icon.png);
+    width: 35px;
+    height: 40px;
+    margin-left: 375px;
+    position: relative;
+    bottom: 920px;
+}
+
+.container11 {
+    position: relative;
+    bottom: 25px;
+}
+
+.p74 {
+    text-align: center;
+    font-size: 18px;
+    color: #2C3E50;
+    font-family: 'Lato', sans-serif;
+    font-weight: 700;
+    margin-right: 942px;
+    position: relative;
+    bottom: 970px;
+}
+
+.p76 {
+    text-align: center;
+    font-size: 18px;
+    color: #2C3E50;
+    font-family: 'Lato', sans-serif;
+    font-weight: 700;
+    margin-right: 572px;
+    position: relative;
+    bottom: 970px;
+}
+
+.container12 {
+    margin-left: 300px;
+    position: relative;
+    bottom: 436px;
+}
+
+.p78 {
+    text-align: center;
+    font-size: 18px;
+    color: #2C3E50;
+    font-family: 'Lato', sans-serif;
+    font-weight: 700;
+    margin-right: 570px;
+    position: relative;
+    bottom: 970px;
+}
+
+.container13 {
+    margin-left: 300px;
+    position: relative;
+    bottom: 462px;
+}
+
+.img17 {
+    background-image: url(../imagesFolder/Mockup.png);
+    width: 558px;
+    height: 441px;
+    position: relative;
+    bottom: 1870px;
+    margin-left: 992px;
+}

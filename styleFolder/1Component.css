@@ -1,0 +1,164 @@
+body,
+html {
+    margin: 0;
+    width: 100%;
+    height: 100%;
+}
+
+@media screen and (min-width: 1024px) and (max-width:1279px) {
+    .p1 {
+        text-align: center;
+    }
+
+    .p2 {
+        text-align: center;
+    }
+
+
+}
+
+#comp1 {
+    max-width: 1920px;
+    width: 100%;
+    height: 1280px;
+    background-color: #222533;
+}
+
+.div1 {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+.p1 {
+    position: relative;
+    top: 435px;
+    left: 16px;
+    color: #FFFFFF;
+    text-transform: uppercase;
+    font-size: 29px;
+    font-family: 'Lato', sans-serif;
+    letter-spacing: 10px;
+    font-weight: 400;
+}
+
+.psd-template {
+    color: #1ABC9C;
+    position: relative;
+    left: -2px;
+    text-transform: uppercase;
+    font-size: 29px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+}
+
+.div2 {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+.p2 {
+    position: relative;
+    top: 355px;
+    color: #FFFFFF;
+    text-transform: uppercase;
+    font-size: 60px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 900;
+    left: 10px;
+}
+
+.div3 {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+.p3 {
+    position: relative;
+    top: 277px;
+    color: #FFFFFF;
+    text-transform: uppercase;
+    font-size: 30px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+    left: 10px;
+}
+
+.div4 {
+    margin-left: 750px;
+    margin-top: 287px;
+}
+
+.btn1 {
+    width: 200px;
+    height: 60px;
+    background-color: transparent;
+    color: white;
+    stroke-width: 2;
+    stroke-linecap: butt;
+    stroke-miterlimit: 100px;
+    border: 2px solid white;
+    font-family: 'Lato', sans-serif;
+    font-size: 18px;
+    border-radius: 2px;
+    font-weight: 900;
+}
+
+.btn1>p {
+    position: relative;
+    top: -3px;
+}
+
+.btn2 {
+    width: 200px;
+    height: 60px;
+    background-color: transparent;
+    color: white;
+    stroke-width: 2;
+    stroke-linecap: butt;
+    stroke-miterlimit: 100px;
+    border: 2px solid #1ABC9C;
+    font-family: 'Lato', sans-serif;
+    background-color: #1ABC9C;
+    font-size: 18px;
+    border-radius: 2px;
+    font-weight: 900;
+    margin-left: 15px;
+}
+
+.btn2>p {
+    position: relative;
+    top: -3px;
+}
+
+.div5 {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+.dot {
+    border: 1px solid #DDDDDD;
+    position: relative;
+    top: 38px;
+    left: 5px;
+    margin-left: 10px;
+    height: 12px;
+    width: 12px;
+    background-color: #FFFFFF;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.dot3 {
+    position: relative;
+    top: 41px;
+    left: -29px;
+    height: 6px;
+    width: 6px;
+    background-color: #1ABC9C;
+    border-radius: 50%;
+    display: inline-block;
+}

@@ -1,0 +1,160 @@
+#comp3 {
+    max-width: 1920px;
+    width: 100%;
+    height: 440px;
+    background-color: #FFFFFF;
+    object-fit: cover;
+    display: flex;
+}
+
+.div8 {
+    text-align: center;
+    position: relative;
+    left: 375px;
+    top: 125px;
+    border: 1px solid #DBE7EF;
+    width: 268px;
+    height: 208px;
+    border-radius: 3px;
+}
+
+.p4,
+.p6,
+.p8 {
+    color: #2C3E50;
+    font-family: 'Lato', sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    position: relative;
+    top: 32px;
+}
+
+.p5,
+.p7,
+.p9,
+.p11 {
+    text-align: center;
+    width: 190px;
+    height: 120px;
+    line-height: 24px;
+    color: #A1B1BC;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    position: relative;
+    top: 23px;
+    left: 39px;
+}
+
+.dot4,
+.dot6,
+.dot8,
+.dot10 {
+    border: 1px solid #DBE7EF;
+    width: 57px;
+    height: 57px;
+    background-color: #FFFFFF;
+    border-radius: 50%;
+    display: inline-block;
+    position: relative;
+    bottom: 222px;
+    left: 26px;
+}
+
+.dot5,
+.dot7,
+.dot9,
+.dot11 {
+    border: 1px solid #DBE7EF;
+    width: 46px;
+    height: 46px;
+    background-color: #FFFFFF;
+    border-radius: 50%;
+    display: inline-block;
+    position: relative;
+    bottom: 228px;
+    right: 31.5px;
+}
+
+.img1 {
+    background-image: url(../imagesFolder/Shape\ 360.png);
+    background-repeat: no-repeat;
+    width: 16px;
+    height: 18px;
+    position: relative;
+    bottom: 264px;
+    left: 126px;
+}
+
+.div9 {
+    text-align: center;
+    position: relative;
+    left: 405px;
+    top: 125px;
+    border: 1px solid #DBE7EF;
+    width: 268px;
+    height: 208px;
+    border-radius: 3px;
+}
+
+.img2 {
+    background-image: url(../imagesFolder/loggg.png);
+    background-repeat: no-repeat;
+    width: 18px;
+    height: 18px;
+    position: relative;
+    bottom: 265px;
+    left: 125px;
+}
+
+.div10 {
+    text-align: center;
+    position: relative;
+    left: 435px;
+    top: 125px;
+    border: 1px solid #DBE7EF;
+    width: 268px;
+    height: 208px;
+    border-radius: 3px;
+}
+
+.img3 {
+    background-image: url(../imagesFolder/Shape\ 406.png);
+    width: 20px;
+    height: 29px;
+    background-repeat: no-repeat;
+    position: relative;
+    bottom: 267px;
+    left: 123px;
+}
+
+.div11 {
+    text-align: center;
+    position: relative;
+    left: 465px;
+    top: 125px;
+    border: 1px solid #DBE7EF;
+    width: 268px;
+    height: 208px;
+    border-radius: 3px;
+}
+
+.img4 {
+    background-image: url(../imagesFolder/Shape\ 371.png);
+    width: 20px;
+    height: 29px;
+    background-repeat: no-repeat;
+    position: relative;
+    bottom: 264px;
+    left: 124px;
+}
+
+.p10 {
+    color: #2C3E50;
+    font-family: 'Lato', sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    position: relative;
+    top: 32px;
+    letter-spacing: 0px;
+}
